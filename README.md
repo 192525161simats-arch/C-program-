@@ -1,5 +1,5 @@
 
-//1.To display our name. #include<stdio.h> int main() { printf("My name is POOJITHA"); printf("Welcome to SIMATS"); return 0; }
+//1.To display our name. #include<stdio.h> int main() { printf("My name is karthik"); printf("Welcome to SIMATS"); return 0; }
 
 //2.To find area of square #include<stdio.h> int main() { int side; int area; scanf("%d",&side); area=side*side; printf("%d",area); return 0; }
 
@@ -201,7 +201,7 @@ README //09-03-2026//Monday //To display our name. #include<stdio.h> int main() 
 
 //To find the Simple interest #include<stdio.h> int main() { float P,T,R,SI; scanf("%f%f%f",&P,&T,&R); SI=(PTR)/100; printf("%f",SI); return 0; }
 
-                                          //10-03-2026//Tuesday
+                                          
 //Find the area of circle #include<stdio.h> void main() { constant float pi=3.14; float r=10,area; area=pirr; printf("%.2f",area); }
 
 //FInd the area of circle using define #include<stdio.h> #define pi 3.14 void main() { int r; float area; area=pirr; printf(".2f",area); }
